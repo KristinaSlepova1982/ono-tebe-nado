@@ -190,7 +190,6 @@
   max-width: 430px;
   min-height: 450px;
   list-style: none;
-  /*TODO избавиться от жествкой привязки к размерам*/
 }
 
 .card {
@@ -250,9 +249,6 @@
 /*lots end*/
 
 /*about start*/
-.about {
-  /*TODO ИЛИ УДАЛИТЬ ИЛИ ЗАДАТЬ СВОЙСТВА*/
-}
 
 .about_column {
   width: 1340px;
@@ -287,7 +283,6 @@
   line-height: normal;
   text-transform: uppercase;
   padding: 100px 0;
-
 }
 
 .about_text {
